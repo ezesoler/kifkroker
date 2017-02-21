@@ -1,4 +1,4 @@
-# kifkroker
+# Kif Kroker
 Remote control script for TV LG (netcast)
                                                                      
 #Control remoto para TV LG con sistema operativo Netcast.
