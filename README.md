@@ -1,15 +1,7 @@
 # kifkroker
 Remote control script for TV LG (netcast)
-
-#    # ### #######    #    # ######  ####### #    # ####### ######  
- #   #   #  #          #   #  #     # #     # #   #  #       #     # 
- #  #    #  #          #  #   #     # #     # #  #   #       #     # 
- ###     #  #####      ###    ######  #     # ###    #####   ######  
- #  #    #  #          #  #   #   #   #     # #  #   #       #   #   
- #   #   #  #          #   #  #    #  #     # #   #  #       #    #  
- #    # ### #          #    # #     # ####### #    # ####### #     # 
                                                                      
-Control remoto para TV LG con sistema operativo Netcast.
+#Control remoto para TV LG con sistema operativo Netcast.
 
 Forma de uso:
 
